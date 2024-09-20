@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msulc11
 - 👀 I’m interested in running and next.js
-- 🌱 I’m currently learning next.js, react
+- 🌱 I’m currently learning WordPress
 - 💞️ I’m looking to collaborate on frontend developing
 - 📫 How to reach me discord @matas1108
 - 😄 Pronouns: Matas, Matej
