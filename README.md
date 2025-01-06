@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @msulc11
-- 👀 I’m interested in running and next.js
-- 🌱 I’m currently learning WordPress
 - 💞️ I’m looking to collaborate on frontend developing
 - 📫 How to reach me discord @matas1108
 - 😄 Pronouns: Matas, Matej
 - ⚡ Fun fact: I hate assembly and PHP
+
+- Designed: https://www.midian-music.cz/
+            https://www.mlslandia.cz/
+            https://darkyzpedigu.cz/
 
 <!---
 msulc11/msulc11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
